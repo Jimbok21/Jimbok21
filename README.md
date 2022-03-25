@@ -11,3 +11,4 @@ I have experience coding in:
  - Haskell
  - Prolog
  - MySQL
+ - Verilog
