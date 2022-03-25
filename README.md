@@ -1,3 +1,3 @@
-Hi, I'm Jimmy,\n
-I am Welsh 🇬🇧,\n
+Hi, I'm Jimmy,  
+I am Welsh :wales:,  
 I am currently studying Computer Science at Swansea University in my final year
