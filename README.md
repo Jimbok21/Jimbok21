@@ -9,5 +9,5 @@ I have experience coding in:
  - JavaScript
  - Haskell
  - Prolog
- - MySQL
+ - MySQL  
 I am always looking for opportunities to develop my skills
