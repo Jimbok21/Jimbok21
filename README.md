@@ -1,6 +1,7 @@
 Hi, I'm Jimmy,  
 I am Welsh :wales:,  
 I am currently studying Computer Science at Swansea University in my final year,  
+I am always looking for opportunities to develop my skills,  
 I have experience coding in:  
  - Java
  - C++
@@ -9,5 +10,7 @@ I have experience coding in:
  - JavaScript
  - Haskell
  - Prolog
- - MySQL  
-I am always looking for opportunities to develop my skills
+ - MySQL
+test
+
+test
