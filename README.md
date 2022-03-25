@@ -11,6 +11,3 @@ I have experience coding in:
  - Haskell
  - Prolog
  - MySQL
-test
-
-test
